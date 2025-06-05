@@ -1,0 +1,7 @@
+{
+  "model": "ADA.tflite",
+  "label": "ada",
+  "probability_cutoff": 70,
+  "sample_rate": 16000,
+  "version": "1.0"
+}
